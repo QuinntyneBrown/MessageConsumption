@@ -1,0 +1,6 @@
+@MessageConsumption.Api_HostAddress = http://localhost:5012
+
+GET {{MessageConsumption.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
